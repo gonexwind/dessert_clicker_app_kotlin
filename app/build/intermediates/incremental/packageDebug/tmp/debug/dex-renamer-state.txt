@@ -1,0 +1,4 @@
+#Fri Jul 02 08:27:22 WIB 2021
+base.0=/home/fikky/Software/android-native-project/DessertClickerApp/app/build/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
